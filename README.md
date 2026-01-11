@@ -33,9 +33,11 @@ I really enjoy building simple **fullstack projects**, creating REST APIs, conne
 
 ## 🌐 Where to find me
 
-- 💼 LinkedIn:  https://www.linkedin.com/in/jhean-monteiro-434a793a4/
-- 📸 Instagram:  https://www.instagram.com/jhean_monteiro/
-- 📧 Email:  jheanmonteiro.2026@outlook.com
+<p align="left">
+  <a href="https://www.instagram.com/jhean_monteiro/">
+    <img src="https://img.shields.io/badge/Instagram-@jhean_monteiro-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
