@@ -26,7 +26,6 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 ![VSC](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)
 ![npm](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png)
 ![Linux](	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png)
-![npm](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png)
 
 
 ---
