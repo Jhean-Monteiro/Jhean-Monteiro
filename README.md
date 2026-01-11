@@ -16,8 +16,6 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-color:00ff4033?style=for-the-badge&logo=&logoColor=white) 
-- 🐧 **Linux** (I'm pretty comfortable in the terminal)  
-- 🎨 **Figma** (for prototyping ideas and interfaces)
 
 I really enjoy building simple **fullstack projects**, creating REST APIs, connecting frontend + backend, deploying everything, and seeing it all live online.
 
