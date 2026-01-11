@@ -10,9 +10,9 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 
 ## Core Stack
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,py,mongodb,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,py,mongodb" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 
 ## Platform & Tools
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,linux,vercel" />
   </a>
