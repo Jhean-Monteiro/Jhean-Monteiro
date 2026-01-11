@@ -41,6 +41,7 @@ I really enjoy building simple **fullstack projects**, creating REST APIs, conne
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
