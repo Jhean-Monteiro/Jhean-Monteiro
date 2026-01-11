@@ -11,7 +11,7 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 
 ## What I already know and use every day
 
-- 🐍 **Python**  
+  ![Python](https://img.shields.io/pypi/pyversions/:packageName)
 - 🌐 **JavaScript**  
 - ⚡ **Node.js** + **Express**  
 - 🍃 **MongoDB**  
