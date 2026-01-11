@@ -1,41 +1,46 @@
-# E aí! 👋 Eu sou Jhean
+# Hey there! 👋 I'm Jhean
 
-🎓 Estudante de Engenharia de Software – 3º período  
-📍 Saquarema, Rio de Janeiro
+🎓 Software Engineering student – 3rd semester  
+📍 Saquarema, Rio de Janeiro, Brazil
 
-Sou apaixonado por programação e adoro **aprender coisas novas**, testar tecnologias diferentes e ver até onde consigo chegar com cada uma delas.  
-Ainda estou no começo da jornada, mas já venho construindo uma base sólida e fazendo muitos cursos pra evoluir cada dia mais.
+I'm super passionate about programming and love **learning new things**, trying out different technologies, and pushing myself to see how far I can go with each one.
+
+I'm still at the beginning of my journey, but I'm already building a solid foundation and taking tons of courses to level up every single day.
 
 ---
 
-## O que eu já sei e uso no dia a dia
+## What I already know and use every day
 
 - 🐍 **Python**  
 - 🌐 **JavaScript**  
 - ⚡ **Node.js** + **Express**  
 - 🍃 **MongoDB**  
-- 🚀 **Vercel** (amo a facilidade de deploy)  
-- 🐧 **Linux** (já me viro bem no terminal)  
-- 🎨 **Figma** (pra prototipar ideias e interfaces)
+- 🚀 **Vercel** (I love how easy it makes deployments!)  
+- 🐧 **Linux** (I'm pretty comfortable in the terminal)  
+- 🎨 **Figma** (for prototyping ideas and interfaces)
 
-Gosto bastante de criar **projetos fullstack** simples, APIs REST, conectar front com back, fazer deploy e ver tudo funcionando online.
-
----
-
-## O que estou buscando agora
-
-- Criar projetos reais pra colocar no portfólio  
-- Aprender mais sobre **TypeScript**, **React/Next.js** e boas práticas  
-- Entender melhor **clean code**, arquitetura e testes  
-- Participar de comunidades e conhecer outros devs  
-- Pegar meus primeiros freelas ou contribuir em projetos open source
+I really enjoy building simple **fullstack projects**, creating REST APIs, connecting frontend + backend, deploying everything, and seeing it all live online.
 
 ---
 
-## 🌐 Onde me encontrar
+## What I'm focusing on right now
+
+- Building real projects to grow my portfolio  
+- Learning more about **TypeScript**, **React/Next.js**, and best practices  
+- Getting better at **clean code**, software architecture, and testing  
+- Joining communities and connecting with other developers  
+- Landing my first freelance gigs or contributing to open source projects
+
+---
+
+## 🌐 Where to find me
 
 - 💼 LinkedIn:  https://www.linkedin.com/in/jhean-monteiro-434a793a4/
 - 📸 Instagram:  https://www.instagram.com/jhean_monteiro/
 - 📧 Email:  jheanmonteiro.2026@outlook.com
 
 ---
+
+Feel free to reach out if you're also starting out, want to chat about programming, courses, projects, or just need help with some stuck code 😄
+
+Let's code together! 🚀
