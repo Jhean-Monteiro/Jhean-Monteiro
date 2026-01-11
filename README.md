@@ -1,16 +1,41 @@
-## Hi there 👋
+# E aí! 👋 Eu sou Jhean
 
-<!--
-**Jhean-Monteiro/Jhean-Monteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software – 3º período  
+📍 Saquarema, Rio de Janeiro
 
-Here are some ideas to get you started:
+Sou apaixonado por programação e adoro **aprender coisas novas**, testar tecnologias diferentes e ver até onde consigo chegar com cada uma delas.  
+Ainda estou no começo da jornada, mas já venho construindo uma base sólida e fazendo muitos cursos pra evoluir cada dia mais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## O que eu já sei e uso no dia a dia
+
+- 🐍 **Python**  
+- 🌐 **JavaScript**  
+- ⚡ **Node.js** + **Express**  
+- 🍃 **MongoDB**  
+- 🚀 **Vercel** (amo a facilidade de deploy)  
+- 🐧 **Linux** (já me viro bem no terminal)  
+- 🎨 **Figma** (pra prototipar ideias e interfaces)
+
+Gosto bastante de criar **projetos fullstack** simples, APIs REST, conectar front com back, fazer deploy e ver tudo funcionando online.
+
+---
+
+## O que estou buscando agora
+
+- Criar projetos reais pra colocar no portfólio  
+- Aprender mais sobre **TypeScript**, **React/Next.js** e boas práticas  
+- Entender melhor **clean code**, arquitetura e testes  
+- Participar de comunidades e conhecer outros devs  
+- Pegar meus primeiros freelas ou contribuir em projetos open source
+
+---
+
+## 🌐 Onde me encontrar
+
+- 💼 LinkedIn:  https://www.linkedin.com/in/jhean-monteiro-434a793a4/
+- 📸 Instagram:  https://www.instagram.com/jhean_monteiro/
+- 📧 Email:  jheanmonteiro.2026@outlook.com
+
+---
