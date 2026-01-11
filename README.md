@@ -41,6 +41,15 @@ I really enjoy building simple **fullstack projects**, creating REST APIs, conne
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 Feel free to reach out if you're also starting out, want to chat about programming, courses, projects, or just need help with some stuck code 😄
 
 Let's code together! 🚀
