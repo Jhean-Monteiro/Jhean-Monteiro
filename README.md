@@ -41,7 +41,7 @@ I really enjoy building simple **fullstack projects**, creating REST APIs, conne
 
 ---
 
-
+[![Linguagens mais usadas](https://gh-stats-gen.vercel.app/api/top-langs?username=Jhean-Monteiro&theme=dracula&layout=compact&langs_count=8)](https://gh-stats-gen.vercel.app/)
 
 ---
 
