@@ -17,7 +17,6 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
  
 - 🍃 **MongoDB**  
-- 🚀 **Vercel** (I love how easy it makes deployments!)  
 - 🐧 **Linux** (I'm pretty comfortable in the terminal)  
 - 🎨 **Figma** (for prototyping ideas and interfaces)
 
