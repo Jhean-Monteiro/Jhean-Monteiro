@@ -18,7 +18,7 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 
 ---
 
-## Platform & Tools
+## Tools & Plataforms
 
 <p align="left">
   <a href="https://skillicons.dev">
