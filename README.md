@@ -41,7 +41,7 @@ I really enjoy building simple **fullstack projects**, creating REST APIs, conne
 
 ---
 
-[![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&theme=dracula&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&theme=dracula&layout=compact&langs_count=8)](https://github.com/Jhean-Monteiro/github-readme-stats)
 
 ---
 
