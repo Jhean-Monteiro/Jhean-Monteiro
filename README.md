@@ -46,7 +46,7 @@ I really enjoy building simple **fullstack projects**, creating REST APIs, conne
 
 <p align="left">
   <a href="https://www.instagram.com/jhean_monteiro/">
-    <img src="https://img.shields.io/badge/Instagram-@jhean_monteiro-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@jhean_monteiro-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> <br>
   </a>
   <a href="mailto:jheanmonteiro.2026@outlook.com">
     <img src="https://img.shields.io/badge/Email-jheanmonteiro.2026@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
