@@ -45,6 +45,9 @@ I really enjoy building simple **fullstack projects**, creating REST APIs, conne
 ## 🌐 Where to find me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/jhean-monteiro-434a793a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="https://www.instagram.com/jhean_monteiro/">
     <img src="https://img.shields.io/badge/Instagram-@jhean_monteiro-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> <br>
   </a>
