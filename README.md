@@ -41,8 +41,7 @@ I really enjoy building simple **fullstack projects**, creating REST APIs, conne
 
 ---
 
-<!-- Minhas linguagens -->
-![Minhas Linguagens](https://github.com/Jhean-Monteiro/Jhean-Monteiro/blob/main/github-metrics.svg)
+
 
 ---
 
