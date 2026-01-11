@@ -9,13 +9,27 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 
 ---
 
-## 🛠️ Tech Stack
+## Core Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-color:00ff4033?style=for-the-badge&logo=&logoColor=white) 
+![JavaScript](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png)
+![Node.js](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png)
+![Express](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png) 
+![Python](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)
+![MongoDB](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png) 
+
+---
+
+## Platform & Tools
+
+![Git](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)
+![Github](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)
+![VSC](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)
+![npm](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png)
+![Linux](	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png)
+![npm](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png)
+
+
+---
 
 I really enjoy building simple **fullstack projects**, creating REST APIs, connecting frontend + backend, deploying everything, and seeing it all live online.
 
