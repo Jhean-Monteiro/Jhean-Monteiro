@@ -22,7 +22,7 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,linux,vercel" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,linux" />
   </a>
 </p>
 
