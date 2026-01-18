@@ -31,9 +31,15 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro&show_icons=true&icon_color=805AD5&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true" width="50%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&text_color=cccccc&title_color=805AD5" width="42%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-delta.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats-delta.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=github_dark&hide_border=true" width="60%" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhean-Monteiro&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="55%" />
 </div>
 
 ---
