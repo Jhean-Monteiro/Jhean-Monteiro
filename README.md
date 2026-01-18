@@ -31,11 +31,15 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 ## 📊 GitHub Stats
 
 <div align="center">
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-delta.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-delta.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats-delta.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=github_dark&hide_border=true" width="60%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" width="55%" />
   </picture>
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=compact&langs_count=8&theme=dracula&hide_border=true&hide=html,css" width="40%" />
 </div>
 
 <div align="center">
