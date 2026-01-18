@@ -28,6 +28,18 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <!-- Top Languages Card -->
+  <img src="https://gh-stats-gen.vercel.app/api/top-langs?username=Jhean-Monteiro&theme=dracula&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" />
+  
+  <!-- Stats Gerais (opcional, mas fica bonito junto) -->
+  <img src="https://gh-stats-gen.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+---
+
 I really enjoy building simple **fullstack projects**, creating REST APIs, connecting frontend + backend, deploying everything, and seeing it all live online.
 
 ---
