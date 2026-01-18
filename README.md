@@ -31,13 +31,10 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Card de linguagens por repositório (top languages) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhean-Monteiro&theme=dracula" alt="Top Languages by Repo" width="400"/>
 
-  <!-- Card de linguagens por commits (mais preciso para contribuições) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jhean-Monteiro&theme=dracula" alt="Most Commit Languages" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhean-Monteiro&theme=dracula" alt="Most Used Languages" width="500"/>
 
-  <!-- Stats gerais opcionais -->
+ 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhean-Monteiro&theme=dracula" alt="Profile Details" width="600"/>
 </div>
 
