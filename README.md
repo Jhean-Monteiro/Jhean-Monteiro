@@ -32,7 +32,7 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhean-Monteiro&theme=dracula" alt="Most Used Languages" width="500"/><br>
+  <img src="https://gh-stats-gen.vercel.app/api/top-langs?username=Jhean-Monteiro&theme=dracula&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" /><br>
  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhean-Monteiro&theme=dracula" alt="Profile Details" width="600"/>
 </div>
