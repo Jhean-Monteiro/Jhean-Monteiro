@@ -31,10 +31,14 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=compact&langs_count=7&theme=dracula&hide_border=true" width="40%" />
+</div>
 
-  <img src="https://gh-stats-gen.vercel.app/api/top-langs?username=Jhean-Monteiro&theme=dracula&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" /><br>
- 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhean-Monteiro&theme=dracula" alt="Profile Details" width="600"/>
+<!-- Streak + Trophy -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhean-Monteiro&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jhean-Monteiro&theme=dracula&no-frame=true&margin-w=15" width="48%" />
 </div>
 
 ---
