@@ -34,7 +34,7 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 
   ### Most Used Languages
 
-  [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_WAKATIME_USERNAME&layout=compact&theme=dracula&langs_count=10)](https://wakatime.com)
+  [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jhean-Monteiro&layout=compact&theme=dracula&langs_count=10)](https://wakatime.com)
  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhean-Monteiro&theme=dracula" alt="Profile Details" width="600"/>
 </div>
