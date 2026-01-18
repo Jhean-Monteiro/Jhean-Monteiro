@@ -31,14 +31,9 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=compact&langs_count=7&theme=dracula&hide_border=true" width="40%" />
-</div>
-
-<!-- Streak + Trophy -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhean-Monteiro&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Jhean-Monteiro&theme=dracula&no-frame=true&margin-w=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro&show_icons=true&icon_color=805AD5&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true" width="50%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&text_color=cccccc&title_color=805AD5" width="42%" />
 </div>
 
 ---
