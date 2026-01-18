@@ -34,7 +34,7 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 
   ### Most Used Languages
 
-  [![Jhean's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&title_color=00bfff&text_color=ffffff&icon_color=00bfff&bg_color=0d1117&hide_border=true&langs_count=10&layout=normal&card_width=650)](https://github.com/anuraghazra/github-readme-stats)
+  [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_WAKATIME_USERNAME&layout=compact&theme=dracula&langs_count=10)](https://wakatime.com)
  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhean-Monteiro&theme=dracula" alt="Profile Details" width="600"/>
 </div>
