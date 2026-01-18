@@ -31,11 +31,14 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://gh-stats-gen.vercel.app/api/top-langs?username=Jhean-Monteiro&theme=dracula&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" />
-  
-  <!-- Stats Gerais (opcional, mas fica bonito junto) -->
-  <img src="https://gh-stats-gen.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- Card de linguagens por repositório (top languages) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhean-Monteiro&theme=dracula" alt="Top Languages by Repo" width="400"/>
+
+  <!-- Card de linguagens por commits (mais preciso para contribuições) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jhean-Monteiro&theme=dracula" alt="Most Commit Languages" width="400"/>
+
+  <!-- Stats gerais opcionais -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhean-Monteiro&theme=dracula" alt="Profile Details" width="600"/>
 </div>
 
 ---
