@@ -34,7 +34,7 @@ I'm still at the beginning of my journey, but I'm already building a solid found
 
   ### Most Used Languages
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&theme=transparent&layout=compact&langs_count=8&hide_progress=false&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&theme=transparent&layout=compact&langs_count=8&hide_progress=false&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhean-Monteiro&theme=dracula" alt="Profile Details" width="600"/>
 </div>
