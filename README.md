@@ -43,6 +43,7 @@ I'm passionate about programming and love **learning new things**, experimenting
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🚀 What I'm focusing on right now
