@@ -29,23 +29,21 @@ I'm passionate about programming and love **learning new things**, experimenting
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=donut&theme=dracula&hide_border=true&langs_count=6"
-    height="400"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
-    height="220"
-  />
-</div>
-
-<br/>
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Jhean-Monteiro&theme=dracula&hide_border=true" height="170" />
-</div>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=donut&theme=dracula&hide_border=false&langs_count=6&border_radius=10" height="220" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&border_radius=10" height="220" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://streak-stats.demolab.com?user=Jhean-Monteiro&theme=dracula&hide_border=false&border_radius=10" width="100%" height="170" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🚀 What I'm focusing on right now
