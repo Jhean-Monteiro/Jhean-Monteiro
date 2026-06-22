@@ -30,20 +30,20 @@ I'm passionate about programming and love **learning new things**, experimenting
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Jhean-Monteiro&theme=dracula&hide_border=true" height="1510" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=donut&theme=dracula&hide_border=true&langs_count=6"
+    height="220"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
+    height="220"
+  />
 </div>
 
 <br/>
 
 <div align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=compact&theme=dracula&hide_border=true&langs_count=6"
-    height="300"
-  />
+  <img src="https://streak-stats.demolab.com?user=Jhean-Monteiro&theme=dracula&hide_border=true" height="170" />
 </div>
 
 ---
