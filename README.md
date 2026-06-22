@@ -1,56 +1,60 @@
 # Hey there! 👋 I'm Jhean
 
-🎓 Software Engineering student – 3rd semester  
-📍 Saquarema, Rio de Janeiro, Brazil  
+🎓 Software Engineering student — 3rd semester
+📍 Saquarema, Rio de Janeiro, Brazil
 
-I'm super passionate about programming and love **learning new things**, trying out different technologies, and pushing myself to see how far I can go with each one.  
-I'm still at the beginning of my journey, but I'm already building a solid foundation and taking tons of courses to level up every single day.
+I'm passionate about programming and love **learning new things**, experimenting with different technologies, and pushing myself to see how far I can go with each one. Still early in my journey, but building a solid foundation every single day — through courses, real projects, and a lot of curiosity.
 
 ---
 
-## Core Stack
+## 🧩 Core Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,py,mongodb" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,mongodb" />
   </a>
 </p>
 
 ---
 
-## Tools & Platforms
+## 🛠️ Tools & Platforms
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,linux,vercel" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats 
-<!--
+## 📊 GitHub Stats
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="55%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=compact&theme=dracula&hide_border=true&langs_count=6"
+    height="165"
+  />
 </div>
--->
+
+<br/>
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=compact&theme=dracula&hide_border=true" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=Jhean-Monteiro&theme=dracula&hide_border=true" height="150" />
 </div>
 
 ---
 
-I really enjoy building simple **fullstack projects**, creating REST APIs, connecting frontend + backend, deploying everything, and seeing it all live online.
+## 🚀 What I'm focusing on right now
 
----
-
-## What I'm focusing on right now
-
-- Building real projects to grow my portfolio  
-- Learning more about **TypeScript**, **React/Next.js**, and best practices  
-- Getting better at **clean code**, software architecture, and testing  
-- Joining communities and connecting with other developers  
-- Landing my first freelance gigs or contributing to open source projects  
+- Building real projects to grow my portfolio
+- Deepening my knowledge in **TypeScript**, **React / Next.js**, and software best practices
+- Getting better at **clean code**, architecture, and testing
+- Connecting with other developers and contributing to open source
+- Landing my first freelance gigs
 
 ---
 
@@ -58,11 +62,13 @@ I really enjoy building simple **fullstack projects**, creating REST APIs, conne
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jhean-monteiro-434a793a4/">
-  <img src="https://img.shields.io/badge/LinkedIn-jhean_monteiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a> <br>
-  <a href="https://www.instagram.com/jhean_monteiro/">
-    <img src="https://img.shields.io/badge/Instagram-@jhean_monteiro-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> <br>
+    <img src="https://img.shields.io/badge/LinkedIn-jhean_monteiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <br/>
+  <a href="https://www.instagram.com/jhean_monteiro/">
+    <img src="https://img.shields.io/badge/Instagram-@jhean_monteiro-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <br/>
   <a href="mailto:jheanmonteiro.2026@outlook.com">
     <img src="https://img.shields.io/badge/Email-jheanmonteiro.2026@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
