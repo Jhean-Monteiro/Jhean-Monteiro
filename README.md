@@ -30,7 +30,7 @@ I'm passionate about programming and love **learning new things**, experimenting
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Jhean-Monteiro&theme=dracula&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Jhean-Monteiro&theme=dracula&hide_border=true" height="300" />
 </div>
 
 <br/>
