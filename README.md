@@ -30,7 +30,7 @@ I'm passionate about programming and love **learning new things**, experimenting
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Jhean-Monteiro&theme=dracula&hide_border=true" height="300" />
+  <img src="https://streak-stats.demolab.com?user=Jhean-Monteiro&theme=dracula&hide_border=true" height="1510" />
 </div>
 
 <br/>
@@ -42,7 +42,7 @@ I'm passionate about programming and love **learning new things**, experimenting
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=compact&theme=dracula&hide_border=true&langs_count=6"
-    height="165"
+    height="300"
   />
 </div>
 
