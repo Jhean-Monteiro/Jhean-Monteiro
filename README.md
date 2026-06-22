@@ -33,7 +33,7 @@ I'm passionate about programming and love **learning new things**, experimenting
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=donut&theme=dracula&hide_border=true&langs_count=6"
     height="400"
-  /> <br/>
+  />
   <img
     src="https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
     height="220"
