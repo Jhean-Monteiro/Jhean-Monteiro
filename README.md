@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Jhean
 
-🎓 Software Engineering student — 3rd semester
+🎓 Software Engineering student — 4rd semester
 📍 Saquarema, Rio de Janeiro, Brazil
 
 I'm passionate about programming and love **learning new things**, experimenting with different technologies, and pushing myself to see how far I can go with each one. Still early in my journey, but building a solid foundation every single day — through courses, real projects, and a lot of curiosity.
