@@ -51,8 +51,6 @@ I'm passionate about programming and love **learning new things**, experimenting
 - Building real projects to grow my portfolio
 - Deepening my knowledge in **TypeScript**, **React / Next.js**, and software best practices
 - Getting better at **clean code**, architecture, and testing
-- Connecting with other developers and contributing to open source
-- Landing my first freelance gigs
 
 ---
 
