@@ -32,7 +32,7 @@ I'm passionate about programming and love **learning new things**, experimenting
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=donut&theme=dracula&hide_border=false&langs_count=4&border_radius=10" height="220" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=donut&theme=dracula&hide_border=false&langs_count=5&border_radius=10" height="220" />
     </td>
     <td>
 <img src="https://github-readme-stats.vercel.app/api?username=Jhean-Monteiro&show_icons=true&theme=dracula&hide_border=false&count_private=true&rank_icon=github&border_radius=10" height="220" />    </td>
