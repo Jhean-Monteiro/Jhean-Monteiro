@@ -223,7 +223,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8b5cf6,100:3b82f6&section=footer" width="100%" />
 </div>
-
-<div align="center">
-  <sub><b>⭐ From <a href="https://github.com/Jhean-Monteiro">Jhean Monteiro</a> with ❤️</b></sub>
-</div>
