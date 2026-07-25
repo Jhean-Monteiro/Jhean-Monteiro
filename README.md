@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=donut&theme=dracula&hide_border=false&langs_count=4&border_radius=10" height="190" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jhean-Monteiro&layout=donut&theme=dracula&hide_border=false&langs_count=5&border_radius=10" height="190" />
     </td>
   </tr>
 </table>
