@@ -31,7 +31,7 @@
 <p align="justify">
   Sou de Saquarema (RJ) e tenho uma grande paixão por tecnologia, arquitetura de software e desenvolvimento full-stack. Meu foco é resolver problemas complexos criando soluções eficientes, unindo interfaces intuitivas a um backend seguro e robusto.</p>
 
-- 🌱 **Atualmente Estudando:** Frameworks Ágeis (Scrum), Kanban e cultura DevOps.
+- 🌱 **Atualmente Estudando:** Frameworks Ágeis (Scrum) e Kanban.
 - 🎯 **Objetivos Atuais:** Dominar TypeScript, construir aplicações full-stack escaláveis e contribuir para projetos Open Source.
 - ⚡ **Curiosidade:** Quando não estou programando, provavelmente estou pesquisando a próxima grande novidade em tecnologia ou refinando meu fluxo de trabalho.
 
@@ -60,11 +60,10 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🧰 Ferramentas e DevOps
+### 🧰 Ferramentas
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
@@ -92,6 +91,16 @@
 
 ---
 
+## ⏱️ Horas Estudadas
+
+<div align="center">
+  <a href="https://code-tracker-neon.vercel.app/u/jhean" target="_blank">
+    <img src="https://code-tracker-neon.vercel.app/api/public/card/jhean" alt="Code Tracker — Horas Estudadas" width="100%" />
+  </a>
+</div>
+
+---
+
 ## 🐍 Gráfico de Contribuições
 
 <div align="center">
@@ -104,13 +113,6 @@
 
 <br/>
 
-## 🎯 Foco Atual e Filosofia
-
-> "A arquitetura de software não é sobre tornar as coisas complexas, mas sim sobre organizar a complexidade." 
-
-Acredito fortemente em escrever código que não seja apenas funcional, mas também legível, sustentável e escalável. Atualmente, estou me aprofundando nos princípios de **Clean Code** e nos conceitos de **Domain-Driven Design (DDD)** para elevar minhas habilidades de resolução de problemas e a qualidade do meu código.
-
----
-
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8b5cf6,100:3b82f6&section=footer" width="100%" />
 </div>
