@@ -91,7 +91,7 @@
 
 ---
 
-## ⏱️ Horas Estudadas
+## ⏱️ Horas Estudadas (Trimestre)
 
 <div align="center">
   <a href="https://code-tracker-neon.vercel.app/u/jhean" target="_blank">
